@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shauryagupta07/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shauryagupta07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3639-zero-array-transformation-i](https://github.com/shauryagupta07/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3639-zero-array-transformation-i](https://github.com/shauryagupta07/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
