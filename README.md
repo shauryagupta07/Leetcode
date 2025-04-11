@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/shauryagupta07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shauryagupta07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/shauryagupta07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
 |  |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shauryagupta07/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/shauryagupta07/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
