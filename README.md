@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shauryagupta07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/shauryagupta07/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shauryagupta07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/shauryagupta07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -151,8 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/shauryagupta07/Leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/shauryagupta07/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/shauryagupta07/Leetcode/tree/master/2050-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
