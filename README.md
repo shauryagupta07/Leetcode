@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/shauryagupta07/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/shauryagupta07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shauryagupta07/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Enumeration
 |  |
 | ------- |
