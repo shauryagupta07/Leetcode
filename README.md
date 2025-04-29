@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/shauryagupta07/Leetcode/tree/master/2690-house-robber-iv) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shauryagupta07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/shauryagupta07/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shauryagupta07/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shauryagupta07/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shauryagupta07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shauryagupta07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shauryagupta07/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shauryagupta07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shauryagupta07/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
