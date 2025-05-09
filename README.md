@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/shauryagupta07/Leetcode/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shauryagupta07/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3801-count-beautiful-numbers](https://github.com/shauryagupta07/Leetcode/tree/master/3801-count-beautiful-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Enumeration
 |  |
