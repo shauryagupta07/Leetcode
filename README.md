@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/shauryagupta07/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/shauryagupta07/Leetcode/tree/master/3447-clear-digits) |
+| [3637-count-number-of-balanced-permutations](https://github.com/shauryagupta07/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shauryagupta07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/shauryagupta07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/shauryagupta07/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Sorting
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/shauryagupta07/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/shauryagupta07/Leetcode/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shauryagupta07/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/shauryagupta07/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Enumeration
 |  |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shauryagupta07/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/shauryagupta07/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
