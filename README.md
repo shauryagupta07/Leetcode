@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shauryagupta07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/shauryagupta07/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shauryagupta07/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shauryagupta07/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shauryagupta07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shauryagupta07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2690-house-robber-iv](https://github.com/shauryagupta07/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3643-zero-array-transformation-ii) |
