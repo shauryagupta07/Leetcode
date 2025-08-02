@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/shauryagupta07/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shauryagupta07/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shauryagupta07/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/shauryagupta07/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/shauryagupta07/Leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shauryagupta07/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/shauryagupta07/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryagupta07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shauryagupta07/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/shauryagupta07/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shauryagupta07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2690-house-robber-iv](https://github.com/shauryagupta07/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3643-zero-array-transformation-ii) |
