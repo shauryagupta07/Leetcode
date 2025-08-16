@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shauryagupta07/Leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/shauryagupta07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shauryagupta07/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/shauryagupta07/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/shauryagupta07/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/shauryagupta07/Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/shauryagupta07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shauryagupta07/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/shauryagupta07/Leetcode/tree/master/1448-maximum-69-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shauryagupta07/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shauryagupta07/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
