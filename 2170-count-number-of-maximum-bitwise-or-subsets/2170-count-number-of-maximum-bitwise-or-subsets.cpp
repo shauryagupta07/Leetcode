@@ -1,5 +1,8 @@
 class Solution {
 public:
+//MISINTERPRETED THE QUES AS ---->""NUMBER OF SUBARRAYS WITH MAXIMUM OR"", THOUGH DID THAT ALSO USING BINARY SEARCH
+
+
     // int calc(vector<int>v){
     //     int ans=0;
     //     for(int i=0;i<v.size();i++){
