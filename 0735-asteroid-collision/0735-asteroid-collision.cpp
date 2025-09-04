@@ -8,6 +8,7 @@ public:
                     a[st.top()]=0;
                     st.pop();
                 }
+                //handling equal case 
                 if(!st.empty()&&a[st.top()]==abs(a[i])){
                     a[i]=0;
                     a[st.top()]=0;
