@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shauryagupta07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shauryagupta07/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/shauryagupta07/Leetcode/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/shauryagupta07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shauryagupta07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryagupta07/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/shauryagupta07/Leetcode/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/shauryagupta07/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3801-count-beautiful-numbers](https://github.com/shauryagupta07/Leetcode/tree/master/3801-count-beautiful-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/shauryagupta07/Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/shauryagupta07/Leetcode/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shauryagupta07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0868-push-dominoes](https://github.com/shauryagupta07/Leetcode/tree/master/0868-push-dominoes) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/shauryagupta07/Leetcode/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Matrix
 |  |
 | ------- |
